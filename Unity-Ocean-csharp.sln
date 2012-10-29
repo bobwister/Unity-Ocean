@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{23DA65FE-8188-E428-CDBC-3286CEBF3712}") = "Unity-Ocean", "Assembly-CSharp-firstpass-vs.csproj", "{D6B37AC7-434F-EA1D-6BB7-DB1534674286}"
+EndProject
+Project("{23DA65FE-8188-E428-CDBC-3286CEBF3712}") = "Unity-Ocean", "Assembly-CSharp-vs.csproj", "{B51800ED-EE8B-0E33-E4D2-BE1E4E7B8233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B37AC7-434F-EA1D-6BB7-DB1534674286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B37AC7-434F-EA1D-6BB7-DB1534674286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B37AC7-434F-EA1D-6BB7-DB1534674286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B37AC7-434F-EA1D-6BB7-DB1534674286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51800ED-EE8B-0E33-E4D2-BE1E4E7B8233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51800ED-EE8B-0E33-E4D2-BE1E4E7B8233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51800ED-EE8B-0E33-E4D2-BE1E4E7B8233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51800ED-EE8B-0E33-E4D2-BE1E4E7B8233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
